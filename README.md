@@ -123,16 +123,6 @@ llama-3.3-70b-versatile
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your chatbot GUI here.
-
-Example:
-
-```md
-![Chatbot UI](screenshots/chatbot-ui.png)
-```
-
 ---
 
 # 📌 Future Improvements
