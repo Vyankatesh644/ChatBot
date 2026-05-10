@@ -1,4 +1,3 @@
-![Uploading ChatGPT Image Jun 3, 2025, 10_16_44 AM.png…]()
 # 🤖 AI ChatBot Assistant
 
 An AI-powered desktop chatbot application built using Python and Tkinter with Groq API integration. This chatbot provides intelligent real-time conversational responses through a clean graphical user interface.
